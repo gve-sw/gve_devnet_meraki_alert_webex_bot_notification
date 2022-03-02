@@ -217,7 +217,7 @@ Start an `ngrok` tunnel using the following command:
 
 You will obtain two public ip addresses. Copy the `https` address and paste that into the `TEAMS_BOT_URL` variable in the `.env` file.
 
-### Webex Transcript Delivery Application
+### Server-hosted bot
 If you have the application running on a server exposed with a public IP address, then copy the `https` address and paste that into the `TEAMS_BOT_URL` variable in the `.env` file.
 
 Now simply type in the following command in your terminal:
